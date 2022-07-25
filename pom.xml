@@ -27,7 +27,13 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-	</dependencies>
+	
+   <dependency>
+     <groupId>com.alidaodao.app</groupId>
+     <artifactId>alidaodao-app-redis-example</artifactId>
+     <version>1.25.0</version>
+   </dependency>
+ </dependencies>
 
 	<build>
 		<plugins>
